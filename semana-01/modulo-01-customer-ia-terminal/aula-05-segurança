@@ -1,0 +1,27 @@
+# 🛡️ RESUMO DA AULA 05 – Cibersegurança e Blockchain
+
+## 🔐 Cibersegurança
+Conjunto de processos, técnicas e práticas que visam garantir a segurança dos ambientes digitais, assegurando:
+- **Confidencialidade**
+- **Integridade**
+- **Disponibilidade**
+
+Envolve quatro tipos de controles:
+- ✅ **Controles preventivos**: blindagem do ambiente contra ataques (hackers, malware) e vazamentos de dados.
+- 🔍 **Controles de detecção**: identificação rápida de ataques e da sua extensão.
+- 🛠️ **Controles corretivos**: minimização das perdas decorrentes de ataques.
+- 🔄 **Controles compensatórios**: manutenção dos serviços essenciais e acesso a sistemas de recuperação em caso de ataque bem-sucedido.
+
+---
+
+## 🔗 Blockchain
+Tecnologia de armazenamento e validação de ativos baseados em dados, **sem a necessidade de instituições intermediárias** para validação.
+
+---
+
+## 🧪 Provas de Conceito
+Implementações simplificadas com o objetivo de **testar e avaliar** algo antes de iniciar o uso em ambiente real.
+
+---
+
+> **Dica:** Mantenha sempre atualizado seu conhecimento sobre segurança digital para proteger seus dados e sistemas! 🚀
